@@ -13,3 +13,6 @@ Please let me know if you have any problems or inconveniences in using it.\
 현재 버전: 1\
 [클릭](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing/blob/main/NyankoScheduleAssistant.apk?raw=true "다운로드")
 ## ㅁㄴㅇㄹ
+할 거
+1. 다크 테마 호환
+2. 발로 짠 코드 수정
