@@ -1,5 +1,7 @@
 # NyankoScheduleAssistant-for_sharing
 
+
+
 ## 개요
 딱히 쓸 말이 없네요.\
 사용에 문제가 있거나 불편한 사항이 있으면 알려주세요.\
@@ -12,7 +14,9 @@ Please let me know if you have any problems or inconveniences in using it.\
 ## 다운 받기
 현재 버전: 2\
 [클릭](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing/blob/main/nyankoscheduleassistant.apk?raw=true "다운로드")
+
+## [업데이트 내역](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing/blob/main/nyankoscheduleassistant.apk?raw=true "다운로드")
+
 ## ㅁㄴㅇㄹ
-할 거
-1. 다크 테마 호환
-2. 발로 짠 코드 수정
+할 거 목록
+* 없음
