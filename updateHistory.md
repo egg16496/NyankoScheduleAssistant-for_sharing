@@ -3,7 +3,7 @@
 [다운 받으러 가기](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing#%EB%8B%A4%EC%9A%B4-%EB%B0%9B%EA%B8%B0)
 
 업데이트 내역
-## 버전 3.2(아직 업로드 되지 않음)
+## 버전 3.2
 * 일부 이미지 수정
 * 텍스트 복사 기능 추가
 * 테마 설정 적용 버튼 제거
