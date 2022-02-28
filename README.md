@@ -11,7 +11,7 @@
 [클릭](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing/blob/main/app-release.apk?raw=true "다운로드")
 
 ### 베타 버전
-
+[클릭](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing/blob/main/beta.apk?raw=true "다운로드")
 ## [업데이트 내역](https://github.com/egg16496/NyankoScheduleAssistant-for_sharing/blob/main/updateHistory.md)
 
 ## ㅁㄴㅇㄹ
